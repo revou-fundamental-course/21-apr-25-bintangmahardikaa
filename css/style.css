@@ -6,7 +6,7 @@
     margin: 0;
     padding: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-image: url('/Background Gradient.gif'); 
+    background-image: url('../Background Gradient.gif'); 
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
